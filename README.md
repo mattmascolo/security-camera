@@ -26,7 +26,7 @@ This project provides a simple setup to stream video using HLS (HTTP Live Stream
 1. Clone the repository:
    ```bash
    git clone https://github.com/mattmascolo/security-camera.git
-   cd https://github.com/mattmascolo/security-camera.git
+   cd /security-camera.git
    ```
 
 2. Install Python dependencies:
